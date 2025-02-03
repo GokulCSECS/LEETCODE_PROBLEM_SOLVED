@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0151-reverse-words-in-a-string) |
+## Array
+|  |
+| ------- |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 <!---LeetCode Topics End-->
