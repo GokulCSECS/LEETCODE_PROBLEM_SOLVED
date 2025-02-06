@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0141-linked-list-cycle) |
+| [1364-tuple-with-same-product](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/1364-tuple-with-same-product) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,5 +32,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/1364-tuple-with-same-product) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+## Counting
+|  |
+| ------- |
+| [1364-tuple-with-same-product](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/1364-tuple-with-same-product) |
 <!---LeetCode Topics End-->
