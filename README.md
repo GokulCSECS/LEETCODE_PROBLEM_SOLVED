@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0189-rotate-array) |
 | [1364-tuple-with-same-product](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/1364-tuple-with-same-product) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Counting
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
