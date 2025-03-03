@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0189-rotate-array) |
 | [1364-tuple-with-same-product](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/1364-tuple-with-same-product) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Counting
 |  |
