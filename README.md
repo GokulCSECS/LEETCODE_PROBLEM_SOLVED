@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0485-max-consecutive-ones) |
 | [1364-tuple-with-same-product](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
