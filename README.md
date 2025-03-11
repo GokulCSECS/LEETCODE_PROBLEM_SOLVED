@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0151-reverse-words-in-a-string) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0283-move-zeroes) |
@@ -72,5 +74,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
