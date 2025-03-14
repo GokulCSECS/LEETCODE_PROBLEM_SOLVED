@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0268-missing-number) |
 | [1364-tuple-with-same-product](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/1364-tuple-with-same-product) |
 ## Two Pointers
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0283-move-zeroes) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0169-majority-element) |
 | [1364-tuple-with-same-product](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/1364-tuple-with-same-product) |
 ## Math
 |  |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -75,5 +79,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
