@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0485-max-consecutive-ones) |
 | [1364-tuple-with-same-product](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Counting
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
