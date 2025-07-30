@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Counting
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0268-missing-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/2271-rearrange-array-elements-by-sign) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
