@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0485-max-consecutive-ones) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1364-tuple-with-same-product](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0268-missing-number) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Binary Search
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Simulation
 |  |
 | ------- |
