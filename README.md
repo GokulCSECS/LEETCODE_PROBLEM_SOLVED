@@ -37,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0151-reverse-words-in-a-string) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0075-sort-colors) |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0900-reordered-power-of-2) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/GokulCSECS/LEETCODE_PROBLEM_SOLVED/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
